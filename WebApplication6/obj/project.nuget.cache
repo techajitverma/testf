@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PjYk7v7q1NBp8SlNSW9fUQTITr8oT1mSy2/S+jqrac65S7h2fXCmJn9uq9XKMS7lITyZexolcKXWQvbJKg0ifQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\verma\\source\\repos\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\verma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
